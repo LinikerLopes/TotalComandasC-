@@ -15,3 +15,6 @@ Numero de Comandas ira gerar as linhas
 *********************
 Total               
 *********************
+
+Numero de comandas maXima: 30
+MaX of commands: 30
